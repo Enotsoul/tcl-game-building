@@ -1,0 +1,194 @@
+
+== Concepts
+=== Clean Code
+== Database usage
+XML, JSON, DICT SQL
+Utilities functions
+=== Graphics Design with GIMP and Image Magick
+=== Highscore system 
+local and online
+
+=== Game Auto Updater
+
+=== Multi player
+hotseat
+peer 2 peer
+Client-server\
+
+=== Modularisation
+=== Deployment
+=== Installation and automation
+
+=== Artificial Ingelligence
+(This is game specific)
+
+=== Multiple levels and difficulty
+=== Various settings
+=== Audio integration
+=== Graphics 
+=== Game states
+pause, continue, save, resume
+=== OOP
+
+=== Client Server
+1 server for multiple games
+Modules for server and Games so it works together for each game
+
+
+GAMES
+== Word Guessing
+wordguessing.tcl
+
+
+
+== Memory puzzle game 
+overturn cards and find pairs, if found stay overturned, otherwise flip back
+Time limit
+various hints
+highscore
+
+== Falling trolls prankster
+Avoid falling objects
+Gain points for every second 
+Some falling objects give you a specific power
+Ennemies at different speeds and sizes
+Buy extra skills
+reverse bad guy, slow down bad guy, shoot bad guy
+fully random and highscore
+
+== Hangman / Gallows
+
+== Nibbles, worm, snake
+constantly moving around the board
+player controls direction and the worm tries to eat apples
+
+Walls, power ups, 
+
+== Tetris clone
+Tetris clone variant..
+
+== tkpong.tcl
+
+== Tick Tack Toe (x si 0)
+DONE!
+
+== 4 in a row
+== 5 in a row
+
+
+== lightson
+
+== Blackjack
+== Risk / warlight / conquest
+Description: Each territory has a certain number of armies which can be used to attack adjacent territories. 
+The player can attack as often as they want, but conquering too many
+ territories stretches out their troops so that the territories can be reclaimed easily. 
+ Additional armies are given based on conquered territories, so not expanding fast enough 
+ will also lead to losing. A straight forward AI is relatively easy to produce.
+
+Variants: Dice Wars is a high-speed Flash game that is similar to Risk.
+
+
+== Tkgem.tcl bejewled remake buble swap
+
+
+== Asteroids
+Description: The player rotates a ship to shoot asteroids, which break into two smaller asteroids when hit. 
+The player must avoid being hit by the asteroids which slowly move around the screen. 
+The player has no brakes, and can only slow or stop by using thrust in the opposite direction they are traveling.
+
+Variants: Having different weapons and an occasional UFO that shoots directly at the player. 
+
+== space invaders 
+Description: A few rows of enemies gradually makes they're way down to the player. The player must shoot them all before they reach the bottom. 
+
+
+== Scorched Earth / Worms / Gorillas / Angry Birds / hedgehogs
+Description: Players control tanks on a 2D hilly terrain and enter the numeric angle and velocity of a cannonball shot. The object is hit the other player's tanks.
+
+Variants: Angry Birds is a version of this game that adds a physics engine instead of hills.
+ Different weapon types besides the standard cannonball can be added.
+  Several UI improvements can be made over the original game 
+  (using the mouse to enter the angle and velocity, displaying the previous turn's angle and velocity, etc.) 
+Destructible terrain and being able to move the tanks adds a new dimension to the game.
+
+== Crystal shooter bubble shoot
+Add bubbles to existing bubbles and 
+
+
+
+Description: The top of the board is filled with different colored bubbles. The player must shoot bubbles from the bottom to form a set of three bubbles of the same color in a row to make them disappear. The ceiling lowers over time. The player wins if the board is cleared of bubbles, and loses if the bubbles reach the bottom.
+
+Variants: This is a similar game to Bejeweled, and the power ups used in that game could be used in this one.
+
+
+==  pipes
+construct a very long pipe with random pipes
+there is a time limit when the water runs
+you gain points by having the longest pipe
+
+
+Harder levels require you to go to an exit
+
+
+Description: The player must put down different shaped pipes on the board. The pipes cannot be rotated or moved after placement, but the player does get to see the next several pipes that will be used. A little after the start of the game, water begins to flow through the pipes.
+
+== Pac-Man
+
+== Bomberman clone
+
+== Fruit Ninja
+
+YouTube video showing gameplay
+
+Description: Objects are thrown up over the screen and the player must drag the mouse over them.
+
+Variants: Bonuses for combos. Some objects cause the player to lose if they are touched.
+
+== Duck Hunt
+
+YouTube video showing gameplay
+
+Description: Ducks fly around the screen and the player must click on them to shoot them. The player has limited ammo.
+
+Variants: The flight patterns of the ducks/objects can be changed.
+
+== type speed
+Description: A typing game where words slowly move to the right side of the screen. The player must type the word to make them disappear. The player loses after enough words hit the right side of the screen.
+
+breakout 
+
+
+
+Scroller 
+
+== Fire 'N' Ice
+
+YouTube video showing gameplay
+
+Description: A very original but obscure puzzle game on the NES. The player controls a wizard who can make and unmake ice cubes, which need to fall on all the fire in a level to clear it. The ice can also be used as platforms, and individual blocks of ice can be pushed around. (As a platformer, making a clone of this might be a bit more involved. But the concept is original enough where I think it'd be worth the effort.)
+
+
+== 2d Platformer
+
+== Side scrolling platformer
+
+== 2d RPG
+
+== 3D games
+PROFESSIONAL AND GAMES
+
+https://www.youtube.com/watch?v=23m9nz575Ag
+
+BLENDER ANDROID
+https://www.youtube.com/watch?v=U8RzsJfh3Gc
+https://www.youtube.com/watch?v=DMsdzF_JFpQ
+BLEND4WEB
+BLENDER ADDON
+http://www.gameblender.org/viewforum.php?f=12&sid=9bd4f394c636673eb3cc6080f7d71f5a
+
+
+Create blender games
+https://www.youtube.com/watch?v=5Wi23L3KI1U
+https://www.youtube.com/watch?v=cO7XOcdB1s8
+http://opengameart.org/forumtopic/a-series-of-tutorials-about-creating-game-using-blender
